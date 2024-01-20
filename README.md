@@ -34,8 +34,10 @@ They pick out trash on the street, say nice things to each other, help each othe
 If we can come up with a system that captures these minute interactions between humans for the good for good people and the bad for bad people. 
 We can literally make the world a better place. Not a buzzword. For real guys. 
 
+Sincerely,
+
 P.S. join us if you think it's worth collaborating on this idea. 
 
-at the edge of beautiful mannerism for our entire human species. 
-Written by Mannerism,
-2024. 1. 20
+***at the edge of beautiful mannerism for our entire human species.***
+***Written by Mannerism***
+***2024. 1. 20***
