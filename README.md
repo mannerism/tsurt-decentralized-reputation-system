@@ -20,8 +20,7 @@ It is more valuable than money and power.
 Having lots of money without trust will eventually vanish.
 Having lots of power without trust will eventually corrupt.
 
-However, it's far from the reality we live in.
-Scammers and thieves thrive in this world.
+In reality,scammers and thieves thrive in this world.
 How? They game the system. 
 They are exploiting our legal, political and social systems.
 This phenomemon is so pervasive in our modern society that sometimes people wonder, 
@@ -29,7 +28,7 @@ This phenomemon is so pervasive in our modern society that sometimes people wond
 I say big NO and FUCK YOU to this trend.
 We as a human species are way better than this.
 If we look around our neighbors, there are still many people who do good to others. 
-They pick out trash on the street, say nice things to each other, help each other out in hard times, always be on time, and so forth.
+They pick up trash on the street, say nice things to each other, help each other out in hard times, always be on time, and so forth.
 
 If we can come up with a system that captures these minute interactions between humans for the good for good people and the bad for bad people. 
 We can literally make the world a better place. Not a buzzword. For real guys. 
