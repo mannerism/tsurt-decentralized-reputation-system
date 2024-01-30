@@ -40,3 +40,6 @@ P.S. join us if you think it's worth collaborating on this idea.
 ***at the edge of beautiful mannerism for our entire human species.***
 ***Written by Mannerism***
 ***2024. 1. 20***
+
+Join the movement:
+[discord](https://discord.gg/r9knV4Me)
