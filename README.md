@@ -43,3 +43,13 @@ P.S. join us if you think it's worth collaborating on this idea.
 
 Join the movement:
 [discord](https://discord.gg/r9knV4Me)
+
+# High Level Requirements
+
+--- 
+
+1. A proper incentive structure is needed to boost (1) initial adoption and (2) continual usage
+2. The system must be "Zeitgeist" agnostic. The good and bad are subject to change as we pierce through time. For instance, the word "Decadent" had been interpreted to be mostly negative in 19th century to signify "moral and cultural decline." Later through the Decadent movement in art and literature led by the writers and artists like Oscar Wilde and Charles Baudelaire, the word has started to gain "luxury, pleasure and indulgence" to its meaning. In short, there must be no moral judgement within this reputation system and it must be able to evolve overtime.
+3. All the reputation data in the system must be immutable and should be based on transactions.
+4. The network on top of which this reputation system is built on top of must be resistant to any government regulation.
+5. iOS and Android Mobile Apps only for end users, and it must be dead simple to use
